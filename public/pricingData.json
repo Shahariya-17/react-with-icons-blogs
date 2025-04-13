@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Basic Fit",
+      "price": 29,
+      "billing": "monthly",
+      "description": "Perfect for beginners or those who just need the essentials.",
+      "features": [
+        "Access to gym equipment",
+        "Locker room access",
+        "1 guest pass per month",
+        "Open gym hours (6 AM – 10 PM)",
+        "Free Wi-Fi",
+        "Access to mobile app for class schedules",
+        "Fitness assessment on sign-up"
+      ]
+    },
+    {
+      "name": "Standard Plus",
+      "price": 49,
+      "billing": "monthly",
+      "description": "Ideal for regular gym-goers who want group classes and more perks.",
+      "features": [
+        "Everything in Basic Fit",
+        "Unlimited group fitness classes (yoga, HIIT, spin)",
+        "Access to sauna & steam room",
+        "3 guest passes per month",
+        "1 personal training consultation per month",
+        "Towel service included",
+        "Nutritional tips via app",
+        "10% discount on gym merchandise"
+      ]
+    },
+    {
+      "name": "Premium Performance",
+      "price": 79,
+      "billing": "monthly",
+      "description": "For serious fitness enthusiasts looking for full support and flexibility.",
+      "features": [
+        "Everything in Standard Plus",
+        "Unlimited personal training sessions (1x/week)",
+        "Custom workout planning",
+        "Nutrition & meal planning support",
+        "Priority booking for classes",
+        "Access to recovery room (massage chairs, cryotherapy)",
+        "Bring a guest anytime",
+        "Monthly progress tracking reports",
+        "Access to exclusive events and workshops"
+      ]
+    }
+  ]
+  
